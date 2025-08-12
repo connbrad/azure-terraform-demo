@@ -83,7 +83,7 @@ This project is being developed as part of my structured 30-day study plan:
 ---
 
 ## License
-This repository is licensed under the MIT License – see [LICENSE](https://opensource.org/license/mit) for details.
+This repository is licensed under the MIT License – see [LICENSE](LICENSE.txt) for details.
 
 ---
 
