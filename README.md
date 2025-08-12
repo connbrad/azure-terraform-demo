@@ -59,12 +59,12 @@ azure-vm-terraform-demo/
 ### 1️⃣ Prerequisites
 - [Install Terraform](https://developer.hashicorp.com/terraform/downloads)
 - [Install Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
-- [Create a free Azure account](https://azure.microsoft.com/free/) if you don't have one.
+- [Create a free Azure account](https://azure.microsoft.com/free/)
 
 ### 2️⃣ Clone this Repository
 ```bash
-git clone https://github.com/<your-username>/azure-infra-demo.git
-cd azure-infra-demo
+git clone https://github.com/connbrad/azure-vm-terraform-demo.git
+cd azure-vm-terraform-demo
 ```
 
 ### 3️⃣ Initialize Terraform
