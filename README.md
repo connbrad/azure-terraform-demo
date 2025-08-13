@@ -24,6 +24,7 @@ The goal is to solidify core Azure administration skills while building a public
 - **IaC Tool:** Terraform
 - **Version Control:** Git + GitHub
 - **Scripting:** Bash/PowerShell
+- **Package Manager:** Chocolatey
 - **Diagramming:** Draw.io / Lucidchart (for architecture diagrams)
 
 ---
@@ -57,6 +58,8 @@ azure-terraform-demo/
 ## Getting Started
 
 ### 1️⃣ Prerequisites
+- [Install Chocolatey](https://chocolatey.org/install)
+- [Install Git](https://community.chocolatey.org/packages/git)
 - [Install Terraform](https://developer.hashicorp.com/terraform/downloads)
 - [Install Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 - [Create a free Azure account](https://azure.microsoft.com/free/)
