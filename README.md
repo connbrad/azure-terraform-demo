@@ -30,7 +30,7 @@ The goal is to solidify core Azure administration skills while building a public
 
 ## Repository Structure
 ```
-azure-vm-terraform-demo/
+azure-terraform-demo/
 │
 ├── README.md                 # Project overview (this file)
 ├── docs/                     # Documentation and diagrams
@@ -63,8 +63,8 @@ azure-vm-terraform-demo/
 
 ### 2️⃣ Clone this Repository
 ```bash
-git clone https://github.com/connbrad/azure-vm-terraform-demo.git
-cd azure-vm-terraform-demo
+git clone https://github.com/connbrad/azure-terraform-demo.git
+cd azure-terraform-demo
 ```
 
 ### 3️⃣ Initialize Terraform
