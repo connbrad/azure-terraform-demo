@@ -55,6 +55,14 @@ azure-terraform-demo/
 
 ---
 
+## Learning Plan Integration
+This project is being developed as part of my structured 30-day study plan:
+- **Days 1–10:** Azure Fundamentals refresh + Initial Terraform setup
+- **Days 11–20:** Deploying core infrastructure (VMs, networking, storage)
+- **Days 21–30:** Scaling, security, and automation
+
+---
+
 ## Getting Started
 
 ### 1️⃣ Prerequisites
@@ -66,7 +74,7 @@ azure-terraform-demo/
 
 ### 2️⃣ Clone this Repository
 ```bash
-git clone https://github.com/connbrad/azure-terraform-demo.git
+git clone https://github.com/<username>/azure-terraform-demo.git
 cd azure-terraform-demo
 ```
 
@@ -75,13 +83,8 @@ cd azure-terraform-demo
 terraform init
 ```
 
----
-
-## Learning Plan Integration
-This project is being developed as part of my structured 30-day study plan:
-- **Days 1–10:** Azure Fundamentals refresh + Initial Terraform setup
-- **Days 11–20:** Deploying core infrastructure (VMs, networking, storage)
-- **Days 21–30:** Scaling, security, and automation
+#### Notes:
+- If package installs are not working—close out of the terminal and run again as administrator
 
 ---
 
