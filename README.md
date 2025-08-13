@@ -47,8 +47,8 @@ azure-terraform-demo/
 │   └── backend.tf
 │
 ├── scripts/                   # Deployment & teardown scripts
-│   ├── deploy.sh
-│   └── destroy.sh
+│   ├── deploy.ps1
+│   └── destroy.ps1
 │
 └── .gitignore
 ```
