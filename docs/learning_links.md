@@ -188,7 +188,7 @@
 
 - After finishing a module, save at least one screenshot and a 2–4 sentence note in `docs/<module-name>/` and commit to the repo on the same day.
 
-- If a lab prompts you to create paid resources, stop and switch to the instructions that use free-tier or sandbox steps, or do `terraform plan` only and \*\*do not apply\*\* until you confirm SKUs and cost.
+- If a lab prompts you to create paid resources, stop and switch to the instructions that use free-tier or sandbox steps, or do `terraform plan` only and **do not apply** until you confirm SKUs and cost.
 
 
 
