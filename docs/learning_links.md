@@ -1,12 +1,12 @@
-\# Learning Links for the 30-Day Azure + Terraform Plan
+# Learning Links for the 30-Day Azure + Terraform Plan
 
 
 
-\*\*Purpose:\*\* This file contains the official Microsoft Learn modules and reference links mapped to the 30-day calendar. 
+**Purpose:** This file contains the official Microsoft Learn modules and reference links mapped to the 30-day calendar. 
 
 
 
-> \*\*Reminder:\*\* your Azure free trial expires. Destroy or deallocate non-essential resources by the expire date.
+> **Reminder:** your Azure free trial expires. Destroy or deallocate non-essential resources by the expire date.
 
 
 
