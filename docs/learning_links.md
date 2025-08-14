@@ -82,23 +82,23 @@
 
 &nbsp; https://learn.microsoft.com/en-us/training/paths/az-104-manage-virtual-networks/  
 
-&nbsp; \*Use:\* VNet, subnets, peering, connectivity (Day 9–10).
+&nbsp; *Use:* VNet, subnets, peering, connectivity (Day 9–10).
 
 
 
-\- \*\*Module: Configure network security groups (NSGs)\*\*  
+- **Module: Configure network security groups (NSGs)**  
 
 &nbsp; https://learn.microsoft.com/en-us/training/modules/configure-network-security-groups/  
 
-&nbsp; \*Use:\* Hands-on NSG examples and rule testing; include results in `docs/network/`.
+&nbsp; *Use:* Hands-on NSG examples and rule testing; include results in `docs/network/`.
 
 
 
-\- \*\*Exam-readiness video — Virtual networking\*\*  
+- **Exam-readiness video — Virtual networking**  
 
 &nbsp; https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-implement-and-manage-virtual-networking-4-of-5  
 
-&nbsp; \*Use:\* Quick recap after networking lab and before Terraform networking automation.
+&nbsp; *Use:* Quick recap after networking lab and before Terraform networking automation.
 
 
 
@@ -106,53 +106,53 @@
 
 
 
-\## Week 3 — Backup, Monitoring \& Cost 
+## Week 3 — Backup, Monitoring \& Cost 
 
-\- \*\*Create Azure Recovery Services vaults (how-to)\*\*  
+- **Create Azure Recovery Services vaults (how-to)**  
 
 &nbsp; https://learn.microsoft.com/en-us/azure/backup/backup-create-recovery-services-vault  
 
-&nbsp; \*Use:\* Step-by-step to create a Recovery Services vault (Day 11).
+&nbsp; *Use:* Step-by-step to create a Recovery Services vault (Day 11).
 
 
 
-\- \*\*Back up Azure VMs in a Recovery Services vault (tutorial)\*\*  
+- **Back up Azure VMs in a Recovery Services vault (tutorial)**  
 
 &nbsp; https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-vms-prepare  
 
-&nbsp; \*Use:\* Prepare and enable VM backup; capture screenshots for `docs/backup/` (Day 11–12).
+&nbsp; *Use:* Prepare and enable VM backup; capture screenshots for `docs/backup/` (Day 11–12).
 
 
 
-\- \*\*Create a metric alert for an Azure resource (tutorial)\*\*  
+- **Create a metric alert for an Azure resource (tutorial)**  
 
 &nbsp; https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/tutorial-metric-alert  
 
-&nbsp; \*Use:\* Add a CPU alert for your VM and document thresholds (Day 13).
+&nbsp; *Use:* Add a CPU alert for your VM and document thresholds (Day 13).
 
 
 
-\- \*\*Azure Monitor alerts overview\*\*  
+- **Azure Monitor alerts overview**  
 
 &nbsp; https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview  
 
-&nbsp; \*Use:\* Design decisions for alerting and action groups (Day 13).
+&nbsp; *Use:* Design decisions for alerting and action groups (Day 13).
 
 
 
-\- \*\*Azure Cost Management \& Billing (docs)\*\*  
+- **Azure Cost Management \& Billing (docs)**  
 
 &nbsp; https://learn.microsoft.com/en-us/azure/cost-management-billing/  
 
-&nbsp; \*Use:\* Run Cost Management, set budgets \& alerts, and produce `cost-report.md` (Day 14).
+&nbsp; *Use:* Run Cost Management, set budgets \& alerts, and produce `cost-report.md` (Day 14).
 
 
 
-\- \*\*Learning path: Control Azure spending and manage bills\*\*  
+- **Learning path: Control Azure spending and manage bills**  
 
 &nbsp; https://learn.microsoft.com/en-us/training/paths/control-spending-manage-bills/  
 
-&nbsp; \*Use:\* Optional deeper dive into budgets and optimization techniques.
+&nbsp; *Use:* Optional deeper dive into budgets and optimization techniques.
 
 
 
@@ -160,21 +160,21 @@
 
 
 
-\## Supplemental / deeper study (reference)
+## Supplemental / deeper study (reference)
 
-\- \*\*AZ-104T00-A course (Azure Administrator instructor materials)\*\*  
+- **AZ-104T00-A course (Azure Administrator instructor materials)**  
 
 &nbsp; https://learn.microsoft.com/en-us/training/courses/az-104t00  
 
-&nbsp; \*Use:\* Instructor-led syllabus and deeper examples — reference for deeper troubleshooting.
+&nbsp; *Use:* Instructor-led syllabus and deeper examples — reference for deeper troubleshooting.
 
 
 
-\- \*\*Recovery Services vault overview (concepts)\*\*  
+- **Recovery Services vault overview (concepts)**  
 
 &nbsp; https://learn.microsoft.com/en-us/azure/backup/backup-azure-recovery-services-vault-overview  
 
-&nbsp; \*Use:\* Background reading on RS vault behavior and supported workloads.
+&nbsp; *Use:* Background reading on RS vault behavior and supported workloads.
 
 
 
@@ -182,13 +182,13 @@
 
 
 
-\## How to use this file
+## How to use this file
 
-\- Each link above is mapped to the corresponding day(s) in the 30-day calendar. Open the linked module for the hands-on lab on the specified day.
+- Each link above is mapped to the corresponding day(s) in the 30-day calendar. Open the linked module for the hands-on lab on the specified day.
 
-\- After finishing a module, save at least one screenshot and a 2–4 sentence note in `docs/<module-name>/` and commit to the repo on the same day.
+- After finishing a module, save at least one screenshot and a 2–4 sentence note in `docs/<module-name>/` and commit to the repo on the same day.
 
-\- If a lab prompts you to create paid resources, stop and switch to the instructions that use free-tier or sandbox steps, or do `terraform plan` only and \*\*do not apply\*\* until you confirm SKUs and cost.
+- If a lab prompts you to create paid resources, stop and switch to the instructions that use free-tier or sandbox steps, or do `terraform plan` only and \*\*do not apply\*\* until you confirm SKUs and cost.
 
 
 
