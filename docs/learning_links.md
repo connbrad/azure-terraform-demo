@@ -14,29 +14,29 @@
 
 
 
-\## Week 1 — Identity \& Governance 
+## Week 1 — Identity \& Governance 
 
-\- \*\*AZ-104: Manage identities and governance (learning path)\*\*  
+- **AZ-104: Manage identities and governance (learning path)**  
 
 &nbsp; https://learn.microsoft.com/en-us/training/paths/az-104-manage-identities-governance/  
 
-&nbsp; \*Use:\* Core path covering Entra ID, RBAC, subscriptions, and governance. Run these modules on Days 1–3 of the sprint.
+&nbsp; *Use:* Core path covering Entra ID, RBAC, subscriptions, and governance. Run these modules on Days 1–3 of the sprint.
 
 
 
-\- \*\*Module: Create, configure, and manage identities\*\*  
+- **Module: Create, configure, and manage identities**  
 
 &nbsp; https://learn.microsoft.com/en-us/training/modules/create-configure-manage-identities/  
 
-&nbsp; \*Use:\* Hands-on lab to create users/groups and assign roles. Save screenshots to `docs/identity/`.
+&nbsp; *Use:* Hands-on lab to create users/groups and assign roles. Save screenshots to `docs/identity/`.
 
 
 
-\- \*\*Exam-readiness video — Manage identities \& governance\*\*  
+- **Exam-readiness video — Manage identities \& governance**  
 
 &nbsp; https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-manage-azure-identities-and-governance-1-of-5  
 
-&nbsp; \*Use:\* Short recap after completing identity modules.
+&nbsp; *Use:* Short recap after completing identity modules.
 
 
 
@@ -44,41 +44,41 @@
 
 
 
-\## Week 2 — Compute (VMs), Storage \& Networking 
+## Week 2 — Compute (VMs), Storage \& Networking 
 
-\- \*\*AZ-104: Deploy and manage Azure compute resources (learning path)\*\*  
+- **AZ-104: Deploy and manage Azure compute resources (learning path)**  
 
 &nbsp; https://learn.microsoft.com/en-us/training/paths/az-104-manage-compute-resources/  
 
-&nbsp; \*Use:\* Study VM selection, extensions, and compute best practices (Day 6–7).
+&nbsp; *Use:* Study VM selection, extensions, and compute best practices (Day 6–7).
 
 
 
-\- \*\*AZ-104 prerequisites (refresher)\*\*  
+- **AZ-104 prerequisites (refresher)**  
 
 &nbsp; https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/  
 
-&nbsp; \*Use:\* Install/confirm tools and core concepts before hands-on labs.
+&nbsp; *Use:* Install/confirm tools and core concepts before hands-on labs.
 
 
 
-\- \*\*AZ-104: Implement and manage storage (learning path)\*\*  
+- **AZ-104: Implement and manage storage (learning path)**  
 
 &nbsp; https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/  
 
-&nbsp; \*Use:\* Storage account types, blob/file choices, and access tiers (Day 8).
+&nbsp; *Use:* Storage account types, blob/file choices, and access tiers (Day 8).
 
 
 
-\- \*\*Exam-readiness video — Implement and manage storage\*\*  
+- **Exam-readiness video — Implement and manage storage**  
 
 &nbsp; https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-implement-and-manage-storage-2-of-5  
 
-&nbsp; \*Use:\* Short review before/after storage labs.
+&nbsp; *Use:* Short review before/after storage labs.
 
 
 
-\- \*\*AZ-104: Configure and manage virtual networks (learning path)\*\*  
+- **AZ-104: Configure and manage virtual networks (learning path)**  
 
 &nbsp; https://learn.microsoft.com/en-us/training/paths/az-104-manage-virtual-networks/  
 
